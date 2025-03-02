@@ -1,0 +1,2 @@
+# winsync
+基于windows原生robocopy的磁盘目录同步工具
